@@ -1,9 +1,11 @@
 ## Hi, I'm Lemuel 👋
 
-**I am studying Computer Science in University of Hong Kong.**
+**Computer Science student in The University of Hong Kong.**
 
 - 🔍 Interested in software engineering, cyber-security, natural language, and education.
-- 🔭 Developed projects in Qt, VueJs, Vuetify, Ncurses, Processing, Arduino, Android, OpenCV, Tensorflow, and PyTorch.
-- 🌱 Currently learning more mathematics.
+- 🧰 Platforms and frameworks: VueJs, Vuetify, Svelte, TailwindCSS, ReactJS, Qt, Ncurses, Processing, Arduino, Android, OpenCV, Tensorflow, PyTorch.
+- 🔨 Languages: C, C++, Java, Python, JavaScript, TypeScript, PHP.
+- 🧪 Working on a web app (Svelte + TailwindCSS + Supabase).
+- 💼 Teaching Assistant of *ENGG1330 Computer Programming I* and *ENGG1330 Computer Programming I*.
 
 :beginner: Always a beginner.
