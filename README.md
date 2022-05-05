@@ -1,11 +1,11 @@
 ## Hi, I'm Lemuel 👋
 
-**Computer Science student in The University of Hong Kong.**
+**BEng(CompSc) yr2 in HKU**
 
-- 🔍 Front-end, User Interface, Natural Language, Education.
-- 🧰 VueJs, Vuetify, Svelte, TailwindCSS, Qt, Ncurses, Processing, Arduino, Android, OpenCV, Tensorflow, PyTorch.
-- 🔨 C, C++, Java, Python, JavaScript, TypeScript, PHP.
+- 🔍 Software, Education.
+- 🧰 VueJs, React, SvelteKit, TailwindCSS, Qt, Unity
+- 🔨 C/C++, C#, Java, Python, TS, PHP.
 - 🧪 Working on a web app (SvelteKit + TailwindCSS + Supabase).
-- 💼 Teaching Assistant of *ENGG1330 Computer Programming I* and *ENGG1340 Computer Programming II / COMP2113 Programming Technologies*.
+- 💼 Teaching Assistant.
 
-:beginner: Always a beginner.
+:beginner: If you are not willing to be a fool, you can't become a master.
