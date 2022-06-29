@@ -1,9 +1,17 @@
-## Hi, I'm Lemuel 🕶
+<h2 align=center>LEMUEL</h2>
 
-**BEng(CompSc) yr2 @ HKU**
+<p align=center>
+  <em>
+  Computer Science Undergraduate at <a href=https://www.hku.hk>The University of Hong Kong</a>
+  </em>
+</p>
 
-- 🔍 Software & Education.
-- 🧰 VueJs, Quasar, React, SvelteKit, TailwindCSS, MongoDB, Qt, Unity
-- 🔨 C/C++, C#, Java, Python, TS.
-- 💷 Freelancing~
-
+```js
+const lemuel = {
+  interests: [Software, Education],
+  languages: [Cantonese, English, Mandarin],
+  code: [JavaScript, TypeScript, C, C++, C#, Python, Java],
+  frameworks: [Vue, Quasar, React, Svelte, MongoDB, Tailwind, Qt, Unity],
+  motto: "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+}
+```
