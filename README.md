@@ -16,7 +16,7 @@ const lemuel = {
 }
 ```
 ##
-<table align="center"><tr><th>Toys</th></tr></table>
+
 <p align="center">
     <a
         href="https://www.cprogramming.com/"
