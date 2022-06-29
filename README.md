@@ -2,7 +2,7 @@
 
 <p align=center>
   <em>
-  Computer Science Undergradute at <a href=https://www.hku.hk>The University of Hong Kong</a>
+  Computer Science Undergraduate at <a href=https://www.hku.hk>The University of Hong Kong</a>
   </em>
 </p>
 
