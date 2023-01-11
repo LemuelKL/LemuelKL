@@ -2,9 +2,20 @@
 
 <p align=center>
   <em>
-  Computer Science penultimate at <a href=https://www.hku.hk>The University of Hong Kong</a>
+  Computer Science Penultimate
   </em>
 </p>
+<p align=center>
+  <a href=https://www.hku.hk>The University of Hong Kong</a>
+  <br>
+  <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
+</p>
+<p align=center>
+  
+</p>
+  
+
+
 
 ```haskell
 motto :: IO()
