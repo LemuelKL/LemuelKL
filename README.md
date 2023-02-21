@@ -22,4 +22,4 @@ motto :: IO()
 motto = putStrLn "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
 ```
 ##
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) lemuelkl](https://www.linkedin.com/in/lemuelkl/)
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) lemuelkl](https://www.linkedin.com/in/lemuelkl/) -->
