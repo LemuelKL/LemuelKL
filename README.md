@@ -2,7 +2,7 @@
 
 <p align=center>
   <em>
-  Computer Science Penultimate
+  Computer Science Penultimate Year Student
   </em>
 </p>
 <p align=center>
