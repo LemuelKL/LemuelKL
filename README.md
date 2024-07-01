@@ -2,7 +2,7 @@
 
 <p align=center>
   <em>
-  Computer Science Final Year Student
+  Computer Science Graduate
   </em>
 </p>
 <p align=center>
