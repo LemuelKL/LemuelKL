@@ -2,10 +2,12 @@
 
 <p align=center>
   <em>
-  Computer Science Graduate
+  Computer Science, Data Science, Machine Learning
   </em>
 </p>
 <p align=center>
+  <a href=https://www.imperial.ac.uk>Imperial College London</a>
+  <br>
   <a href=https://www.hku.hk>The University of Hong Kong</a>
   <br>
   <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
