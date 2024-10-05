@@ -2,26 +2,29 @@
 
 <p align=center>
   <em>
-  Computer Science, Data Science, Machine Learning
+  scientific computing for grand social challenges
   </em>
 </p>
-<p align=center>
-  <a href=https://www.imperial.ac.uk>Imperial College London</a>
-  <br>
-  <a href=https://www.hku.hk>The University of Hong Kong</a>
-  <br>
-  <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
-</p>
-<p align=center>
-  
-</p>
-  
-
-
 
 ```haskell
 motto :: IO()
 motto = putStrLn "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
 ```
+
+<p align=left>
+  Associated with:
+  <br>
+  <a href=https://www.imperial.ac.uk>Imperial College London</a>
+  <br>
+  <a href=https://www.hku.hk>The University of Hong Kong</a>
+  <br>
+  <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
+  <br>
+  <a href=https://www.pyc.edu.hk>Shatin Pui Ying College</a>
+</p>
+<p align=center>
+  
+</p>
+  
 ##
 <!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) lemuelkl](https://www.linkedin.com/in/lemuelkl/) -->
