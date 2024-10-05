@@ -16,7 +16,7 @@ motto = putStrLn "Ask, and it shall be given you; seek, and ye shall find; knock
 </p>
 
 <p align=left>
-  Associated with:
+  past and present association:
   <br>
   <a href=https://www.imperial.ac.uk>Imperial College London</a>
   <br>
@@ -25,6 +25,8 @@ motto = putStrLn "Ask, and it shall be given you; seek, and ye shall find; knock
   <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
   <br>
   <a href=https://www.pyc.edu.hk>Shatin Pui Ying College</a>
+  <br>
+  <a href=https://www.lowcarboncontracts.uk>Low Carbon Contracts Company</a>
 </p>
 
 ##
