@@ -6,18 +6,14 @@
   </em>
 </p>
 
-<p align=center>
-  
 ```haskell
 motto :: IO()
 motto = putStrLn "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
 ```
 
-</p>
+<h2 align=center></h2>
 
-<p align=left>
-  past and present association:
-  <br>
+<p align=right>
   <a href=https://www.imperial.ac.uk>Imperial College London</a>
   <br>
   <a href=https://www.hku.hk>The University of Hong Kong</a>
