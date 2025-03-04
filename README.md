@@ -19,6 +19,8 @@ motto = putStrLn "Ask, \
 ##
 
 <p align=right>
+  Past and current affiliations
+  <br>
   <a href=https://www.imperial.ac.uk>Imperial College London</a>
   <br>
   <a href=https://www.hku.hk>The University of Hong Kong</a>
