@@ -21,6 +21,10 @@ motto = putStrLn "Ask, \
 <p align=right>
   Past and current affiliations
   <br>
+  <a href=https://zendoenergy.com/>Zendo Energy</a>
+  <br>
+  <a href=https://www.lowcarboncontracts.uk>Low Carbon Contracts Company</a>
+  <br>
   <a href=https://www.imperial.ac.uk>Imperial College London</a>
   <br>
   <a href=https://www.hku.hk>The University of Hong Kong</a>
@@ -28,8 +32,6 @@ motto = putStrLn "Ask, \
   <a href=https://www.royalholloway.ac.uk>Royal Holloway, University of London</a>
   <br>
   <a href=https://www.pyc.edu.hk>Shatin Pui Ying College</a>
-  <br>
-  <a href=https://www.lowcarboncontracts.uk>Low Carbon Contracts Company</a>
 </p>
 
 ##
