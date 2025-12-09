@@ -21,6 +21,8 @@ motto = putStrLn "Ask, \
 <p align=right>
   Past and current affiliations
   <br>
+  <a href=https://timera-energy.com/>Timera Energy</a>
+  <br>
   <a href=https://zendoenergy.com/>Zendo Energy</a>
   <br>
   <a href=https://www.lowcarboncontracts.uk>Low Carbon Contracts Company</a>
